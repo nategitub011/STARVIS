@@ -14,6 +14,7 @@ I've never used a *real coding language before, and since RaspPi uses Python, th
 THIS IS A HUGE PROJECT FOR A BEGINNER LIKE ME I KNOW BUT IT MUST BE DONE
 Apologies if this README seems unorganized, as of the time im writing this ive litteraly been on github for a grand total of 1 and a half hours
 STARVIS is the project name. The AI's name is TARVIS, so when speaking to it, I call it TARVIS. It just feels better and rolls off the tounge better for me.
+Google Gemini was my best friend in this from ideas to naming to everything so thanks Gemini
 
 UNCONFIRMED / LATER ADDITIONS
 
