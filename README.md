@@ -3,9 +3,10 @@
 Hello, my name is Nathaniel, and im going to make an AI ally? Colleaugue? Im not quite sure what it is to me. Like a friend I guess.
 
 STATEMENTS
+
 I am an absolute beginner and have never done anything like this. The closest would be Vex coding and working with Edison bots. As Mark Rober said, I expect many struggles and hardships and I embrace them. (or whatever he said i have no idea) 
-My "C" button on my keyboard is kinda broken so there may be many missing "C's"
-No drawings / Schematics currently
+My "C" button on my keyboard is kinda broken so there may be many missing "C's" (I have to tilt my keyboard to enter "c" lots but not all the time)
+No drawings / Schematics / CADS currently and when i make them they will likely be atrocious
 i have no clue what im doing but i know i want to do this
 As the time of writing this I joined HackClub 2 hours ago after learning about it in a reel.
 I've never used a *real coding language before, and since RaspPi uses Python, this will be very hard. I will probably be using Gemini or another LLM to write code that I can edit. This is meant to be a learning experience, and I find myself learning best when "reverse engineering" things
