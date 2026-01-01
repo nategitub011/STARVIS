@@ -88,14 +88,23 @@ CANAKIT
 [CanaKit Raspberry Pi 5 8GB Quick-Start AI Kit (Assembled)](https://www.canakit.com/canakit-raspberry-pi-5-quick-start-ai-kit.html) $319.95
 [Raspberry Pi SSD - 256 GB](https://www.canakit.com/raspberry-pi-ssd.html?defpid=4984) $59.95
 
+TOTAL (CANAKIT) (CAD)
+
+$461.52
+
 PISHOP
 
 [8inch Capacitive Touch Display](https://www.pishop.ca/product/8inch-capacitive-touch-display-wide-color-gamut-1280-800-optical-bonding-toughened-glass-panel-hdmi-type-c-display-interface/) $124.95
 [NVMe Base Duo](https://www.pishop.ca/product/nvme-base-duo-for-raspberry-pi-5-nvme-base-duo/) $43.95
 
----	---	---
-SUBTOTAL (CAD)	$454.77 TAX + SHIPPING NOT INCLUDED
-ROUGH TAX ESTIMATE (NOVA SCOTIA 15% HST) ~$70
-ROUGH TOTAL ~$530
-GRANT (~$540 CAD) (~$395 USD)
+TOTAL (PISHOP) (CAD)
 
+$222.58
+
+---	---	---
+TOTAL
+
+CAD$684.1 = USD$498.42 
+
+GRANT = 400
+OUT OF POCKET = USD$98.42 = CAD$135.09
