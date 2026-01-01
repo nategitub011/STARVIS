@@ -1,0 +1,11 @@
+VENDOR,PRODUCT,AMOUNT,COST (CAD),SUBTOTAL,TOTAL + SHIPPING + TAX,LINKS
+CanaKit,CanaKit Raspberry Pi 5 8GB Quick-Start AI Kit (Assembled),1,319.95,319.95,CanaKit,RaspPi + AI
+CanaKit,Raspberry Pi SSD - 256 GB,1,59.95,59.95,461.52,SSD
+PiShop,NVMe Base Duo for Raspberry Pi 5,1,46.5,46.5,PiShop,Base Duo
+PiShop,"8inch Capacitive Touch Display, Wide Color Gamut, 1280×800, Optical Bonding Toughened Glass Panel, HDMI/Type-C Display Interface",1,123.68,123.68,222.58,Screen
+,,,,,,
+,,,,,,
+,,,,CAD,684.1,
+,,,,USD,498.4181575,
+,,,,AFTER GRANT USD,98.4181575,
+,,,,AFTER GRANT CAD,135.0843342,
