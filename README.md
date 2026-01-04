@@ -4,29 +4,19 @@ Hello, my name is Nathaniel, and im going to make an AI ally? Colleaugue? Im not
 
 STATEMENTS
 
-I am an absolute beginner and have never done anything like this. The closest would be Vex coding and working with Edison bots. As Mark Rober said, I expect many struggles and hardships and I embrace them. (or whatever he said i have no idea) 
+I am an absolute beginner and have never done anything like this. The closest would be Vex coding and working with Edison bots.
 
 My "C" button on my keyboard is kinda broken so there may be many missing "C's" (I have to tilt my keyboard to enter "c" lots but not all the time)
 
-As the time of writing this I joined HackClub 2 hours ago after learning about it in a reel.
 
 I've never used a *real coding language before, and since RaspPi uses Python, this will be very hard. I will probably be using Gemini or another LLM to write code that I can edit. This is meant to be a learning experience, and I find myself learning best when "reverse engineering" things.
 *I've never coded not using blocks but I use scratch alot and I would never forget my day one like that Scratch my goat for real
 
-THIS IS A HUGE PROJECT FOR A BEGINNER LIKE ME I KNOW BUT IT MUST BE DONE
-
-Apologies if this README seems unorganized, as of the time im writing this ive litteraly been on github for a grand total of 1 and a half hours
-
 STARVIS is the project name. The AI's name is TARVIS, so when speaking to it, I call it TARVIS. It just feels better and rolls off the tounge better for me.
-
-Google Gemini was my best friend in this from ideas to naming to everything so thanks Gemini
-
-Its the next day and i realized TARVIS is close to TARDIS so it might end up looking like that
 
 UNCONFIRMED / LATER ADDITIONS
 
 2 knobs, one for personality changing (JARVIS to TARS) and one for more specfic personality traits like TARS's humour and honesty sliders
-
 
 DESCRIPTION / PLAN
 
