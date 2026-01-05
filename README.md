@@ -16,7 +16,8 @@ STARVIS is the project name. The AI's name is TARVIS, so when speaking to it, I 
 
 UNCONFIRMED / LATER ADDITIONS
 
-2 knobs, one for personality changing (JARVIS to TARS) and one for more specfic personality traits like TARS's humour and honesty sliders
+2 knobs on a control pad, one for personality changing (JARVIS to TARS) and one for more specfic personality traits like TARS's humour and honesty sliders
+
 
 DESCRIPTION / PLAN
 
@@ -72,29 +73,43 @@ I chose the name STARVIS because i was originally torn between STARS (Stationary
 
 SHOPPING LIST / BOM
 **EVERYTHING IS IN CAD**
-
-CANAKIT
+CANAKIT 
 
 [CanaKit Raspberry Pi 5 8GB Quick-Start AI Kit (Assembled)](https://www.canakit.com/canakit-raspberry-pi-5-quick-start-ai-kit.html) $319.95
-[Raspberry Pi SSD - 256 GB](https://www.canakit.com/raspberry-pi-ssd.html?defpid=4984) $59.95
+[CanaKit	Raspberry Pi SSD - 256 GB](https://www.canakit.com/raspberry-pi-ssd.html?defpid=4984) $59.95	
 
-TOTAL (CANAKIT) (CAD)
+CANAKIT TOTAL 
 
-$461.52
+463.8
 
 PISHOP
 
-[8inch Capacitive Touch Display](https://www.pishop.ca/product/8inch-capacitive-touch-display-wide-color-gamut-1280-800-optical-bonding-toughened-glass-panel-hdmi-type-c-display-interface/) $124.95
-[NVMe Base Duo](https://www.pishop.ca/product/nvme-base-duo-for-raspberry-pi-5-nvme-base-duo/) $43.95
+[PiShop	NVMe Base Duo for Raspberry Pi 5](https://www.pishop.ca/product/nvme-base-duo-for-raspberry-pi-5-nvme-base-duo/) $46.5
 
-TOTAL (PISHOP) (CAD)
+PISHOP TOTAL 
 
-$222.58
+71.52
 
----	---	---
-TOTAL
+ALIEXPRESS
 
-CAD$684.1 = USD$498.42 
+[AliExpress	OSOYOO 5 Inch IPS Capacitive Touch Screen RPi5 DSI LCD Display Monitor 800x480 Resolution for Raspberry Pi 5 4 2 3 3B+](https://www.aliexpress.com/item/1005005323508319.html?spm=a2g0o.productlist.main.7.57547fc4SEo8qx&algo_pvid=f34e3f35-dca5-4933-a50a-995373a923fa&algo_exp_id=f34e3f35-dca5-4933-a50a-995373a923fa-6&pdp_ext_f=%7B%22order%22%3A%2258%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21CAD%2146.55%2137.33%21%21%21231.37%21185.55%21%402101d6ff17674873682272215e89ce%2112000032634156240%21sea%21CA%213016306137%21ABX%211%210%21n_tag%3A-29910%3Bd%3A560aaf5%3Bm03_new_user%3A-29895%3BpisId%3A5000000197831932&curPageLogUid=3uaA4gJJNgVt&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005323508319%7C_p_origin_prod%3A#nav-specification) $37.33
 
-GRANT = 400
-OUT OF POCKET = USD$98.42 = CAD$135.09
+ALIEXPRESS	TOTAL
+				$45	(Roughly)
+
+  CAD	633.14				
+	USD	460.6378413				
+	AFTER GRANT USD	60.6378413				
+	AFTER GRANT CAD	83.3458033				
+						
+UNCONFIRMED ADDITIONS						
+						
+CONTROL PAD						
+
+MOUSER
+
+[Mouser	Multiprotocol Development Tools Seeed Studio XIAO nRF52840 Sense (Pre-Soldered)](https://www.mouser.ca/ProductDetail/Seeed-Studio/102010632?qs=sqEgtWRSLJ0ucJLg%2F6rE9w%3D%3D) $26.33
+
+MOUSER TOTAL
+          
+52.82	
