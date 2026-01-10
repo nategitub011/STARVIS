@@ -16,7 +16,9 @@ STARVIS is the project name. The AI's name is TARVIS, so when speaking to it, I 
 
 UNCONFIRMED / LATER ADDITIONS
 
-2 knobs on a control pad, one for personality changing (JARVIS to TARS) and one for more specfic personality traits like TARS's humour and honesty sliders
+2 knobs on a control pad, one for personality changing (JARVIS to TARS) and one for more specfic personality traits like TARS's humour and honesty sliders (updated to a 2x2 control pad)
+
+External power button
 
 
 DESCRIPTION / PLAN
