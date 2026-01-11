@@ -115,3 +115,28 @@ MOUSER
 MOUSER TOTAL
           
 52.82	
+
+
+EXTERNAL POWER BUTTON	
+
+AMAZON
+
+[MECCANIXITY Straight Pin Header DIP Single Row 2 Pin 2.54mm Pitch Gold Plated for PCB Pack of 100,Black](https://www.amazon.ca/MECCANIXITY-Straight-Header-Single-2-54mm/dp/B0FPDDZ4QS/ref=sr_1_34?crid=DG4TBF2SWUF0&dib=eyJ2IjoiMSJ9.F0_Lu4vJOHBZKuvz8l59r13Z1efmty0zCNB0zpTG_i3k9BjgB0SwUuREvwMrnajHHP9Fi4dbinIPcvUNQg1-nt2kLwdK3h0NyrKf9CRfnEtYSn5xSsoWwBhIXWhHlk2gbOxLtl5dgCbtS7qLMN0DJ5s0bHYj3t1xlT0dL02zqgEZ7fr3531PAl7o4F4rZXGrrt0yjsHhYBT0T2nDTJBDx0dPGw6uTqVIu-OnjuNjjsVVep1p-3To5N80MAbUfHsBUfP2lcjPhrgZpfGuypS-x0g_0zZp8txhh8E54ApNGLg.q_PPF6rLpSPvyHZzSIbIXeykQa4sKvqLOYOhLf9JS3I&dib_tag=se&keywords=Connector+Header+Through+Hole+2+position+0.100%22+%282.54mm%29&qid=1768082250&sprefix=connector+header+through+hole+2+position+0+100+2+54mm+%2Caps%2C83&sr=8-34) 10.19
+[16mm Heavy Duty Momentary Metal Push Button Switch Waterproof Anti-Vandal Large Current 20Amp 12V 24V 110V ON-Off 1NO 2 Screw Terminals for 5/8" Mounting Hole Without LED Black Shell](https://www.amazon.ca/DMWD-Momentary-Waterproof-Anti-Vandal-Terminals/dp/B0DF55LG78/ref=sr_1_8?crid=1GUWGLS07MMBV&dib=eyJ2IjoiMSJ9.4V5WJalfO3z1q_Uc_3X06EKUN25viXqO_WEFlKU3jZEJd4e077LZzGIeriIuXeaO42LOEv_csCDprcTq5qAfSKFeDDvbyf08YMcdYrj81PVelke3HNDOyqh9uV7gfyivpL3PS7Isrt_xtaf14Ux580SrneJwTDrxhypRhXsjBOPltMK-Mx8HB_WBvySUtPVf9uMO0u8ENMd3Kxlz10vahhHvuCXPMgsS0M5eVC-Dz-8u-0SgQwnfOF3rh7ORxv-Fi2SaE-Go0d6I0s9vL14nO_6WdxviMxp8tBerDNxO9l8.PEPAEdS5r-rsZXK4BR8sObM4-2I5C5ZAsBSxdmPFlmw&dib_tag=se&keywords=16mm%2Bmomentary%2Bbuttons&qid=1768153460&sprefix=16mm%2Bmomentary%2Bbuttons%2Caps%2C193&sr=8-8&th=1)	13.99
+[Amazon	Elegoo 120pcs Multicolored Dupont Wire 40pin Male to Female, 40pin Male to Male, 40pin Female to Female Breadboard Jumper Wires Ribbon Cables Kit for arduino](https://www.amazon.ca/gp/product/B01EV70C78/ref=ox_sc_act_title_1?smid=A2WWHQ25ENKVJ1&psc=1)9.99
+
+
+AMAZON TOTAL
+50.61
+
+
+
+
+
+
+
+
+
+
+
+
