@@ -2,18 +2,6 @@
 
 Hello, my name is Nathaniel, and im going to make an AI ally? Colleaugue? Im not quite sure what it is to me. Like a friend I guess.
 
-STATEMENTS
-
-I am an absolute beginner and have never done anything like this. The closest would be Vex coding and working with Edison bots.
-
-My "C" button on my keyboard is kinda broken so there may be many missing "C's" (I have to tilt my keyboard to enter "c" lots but not all the time)
-
-
-I've never used a *real coding language before, and since RaspPi uses Python, this will be very hard. I will probably be using Gemini or another LLM to write code that I can edit. This is meant to be a learning experience, and I find myself learning best when "reverse engineering" things.
-*I've never coded not using blocks but I use scratch alot and I would never forget my day one like that Scratch my goat for real
-
-STARVIS is the project name. The AI's name is TARVIS, so when speaking to it, I call it TARVIS. It just feels better and rolls off the tounge better for me.
-
 UNCONFIRMED / LATER ADDITIONS
 
 2 knobs on a control pad, one for personality changing (JARVIS to TARS) and one for more specfic personality traits like TARS's humour and honesty sliders (updated to a 2x2 control pad)
@@ -30,7 +18,7 @@ Its designed to be able to do many things, such as
 local LLM processing, PC headset integration, custom personalities, voice-activation, "tactical" HUD, headset-on detection, "vision" system, "huddle" button, and a visual status indicator.
 
 
-**MANY FEATURES HAVE BEEN DELAYED OR CUT DUE TO COST**
+**SOME FEATURES HAVE BEEN DELAYED OR CUT DUE TO COST**
 
 
 (Not so) DETAILED EXPLANATIONS
