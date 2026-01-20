@@ -8,6 +8,7 @@ UNCONFIRMED / LATER ADDITIONS
 
 External power button
 
+OpenCV hand tracking
 
 DESCRIPTION / PLAN
 
