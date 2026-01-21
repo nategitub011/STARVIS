@@ -12,12 +12,13 @@ OpenCV hand tracking
 
 DESCRIPTION / PLAN
 
-Repository for my desktop AI friend/assistant/companion using a Raspberry Pi 5 16GB (hopefully) or 8GB running Ollama for basic conversing, DeepSeek R1 (I think thats the right model, the local one anyway) for "smarter" responses, and Gemini API for the real brains. 
-I have been planning vigorously, using Google Gemini to help me. The goal is to have a (almost) fully private, smart, expressive local LLM AI to chat with while im on my PC, whether it be discussing game stratigies or bored and wanting something to do. 
+Repository for my desktop AI friend/assistant/companion using a Raspberry Pi 5 8GB running Ollama for basic conversing, DeepSeek R1 (I think thats the right model, the local one anyway) for "smarter" responses, and Gemini API for the real brains. 
+I have been planning vigorously, using Google Gemini to help me. The goal is to have a (almost) fully private, smart, expressive local LLM AI to chat with while im on my PC, whether it be discussing game strategies or bored and wanting something to do. 
 If you (the reader) have an Alexa, or a Google Home, etc. Its meant to be like that and a mix of Gemini Live, combining genius with functionality,
 Its designed to be able to do many things, such as 
 local LLM processing, PC headset integration, custom personalities, voice-activation, "tactical" HUD, headset-on detection, "vision" system, "huddle" button, and a visual status indicator.
 
+.step CAD Assembly is zipped due to file size
 
 **SOME FEATURES HAVE BEEN DELAYED OR CUT DUE TO COST**
 
@@ -28,7 +29,7 @@ Local LLM Processing
 Speaks for itself.
 A local AI hosted on the RaspPi for privacy.
 
-PC Headset Integration
+PC Headset Integration 
 STARVIS will act as an inbetween for audio and mic between the headset and my PC.
 This allows for the "huddle button" which I'll get into later.
 
@@ -40,7 +41,7 @@ I plan to have a personality ratio of J30:T70, this means it will be 70% like TA
 Just a Pi 5 screen with some analytics on it probably of PC / Pi performances / temps 
 I want STARVIS to be able to cycle between things based off of context, like if i ask "hey TARVIS whats the weather?"
 
-"Huddle" button
+"Huddle" button 
 One of the ideas i came up with.
 When you press and hold the button, it cuts mic audio from the Pi to the PC so when you speak, its solely to TARVIS.
 *press and hold button* "hey TARVIS this guy reading this is cool right"
