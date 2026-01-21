@@ -123,10 +123,12 @@ AMAZON TOTAL
 
 
 
+<img width="1493" height="1101" alt="Screenshot 2026-01-21 155527" src="https://github.com/user-attachments/assets/82eaf433-3251-4197-8d51-a5d4200dc469" />
 
 
 
 
+<img width="1080" height="1057" alt="Screenshot 2026-01-21 155352" src="https://github.com/user-attachments/assets/d7e3ec4c-e23a-41de-8d85-f3a8ca9399c9" />
 
 
 
