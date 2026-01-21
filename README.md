@@ -12,8 +12,8 @@ OpenCV hand tracking
 
 DESCRIPTION / PLAN
 
-Repository for my desktop AI friend/assistant/companion using a Raspberry Pi 5 8GB running Ollama for basic conversing, DeepSeek R1 (I think thats the right model, the local one anyway) for "smarter" responses, and Gemini API for the real brains. 
-I have been planning vigorously, using Google Gemini to help me. The goal is to have a (almost) fully private, smart, expressive local LLM AI to chat with while im on my PC, whether it be discussing game strategies or bored and wanting something to do. 
+This is the repository for my desktop AI friend/assistant/companion using a Raspberry Pi 5 8GB running Ollama for basic conversing, DeepSeek R1 (I think thats the right model, the local one anyway) for "smarter" responses, and Gemini API for the real brains. 
+I have been planning, using Google Gemini to help me. The goal is to have a (almost) fully private, smart, expressive local LLM AI to chat with while im on my PC, whether it be discussing game strategies or bored and wanting something to do. 
 If you (the reader) have an Alexa, or a Google Home, etc. Its meant to be like that and a mix of Gemini Live, combining genius with functionality,
 Its designed to be able to do many things, such as 
 local LLM processing, PC headset integration, custom personalities, voice-activation, "tactical" HUD, headset-on detection, "vision" system, "huddle" button, and a visual status indicator.
@@ -47,7 +47,8 @@ When you press and hold the button, it cuts mic audio from the Pi to the PC so w
 *press and hold button* "hey TARVIS this guy reading this is cool right"
 "yeah this reader is hella cool" and the people on discord would have no clue
 
-
+Fast Boot
+Using an SSD instead of a SD card will significantly boost boot time and other storage interaction times.
 Why?
 
 Recently, I've been in the "wow theres no fun games anymore and I need something to do before I lose my mind from doomscrolling for hours" phase. I thought to myself, I need a project. So I did. 
