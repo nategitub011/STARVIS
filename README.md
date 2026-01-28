@@ -46,9 +46,25 @@ One of the ideas i came up with.
 When you press and hold the button, it cuts mic audio from the Pi to the PC so when you speak, its solely to TARVIS.
 *press and hold button* "hey TARVIS this guy reading this is cool right"
 "yeah this reader is hella cool" and the people on discord would have no clue
+will be on keypad
 
 Fast Boot
 Using an SSD instead of a SD card will significantly boost boot time and other storage interaction times.
+
+
+How?
+
+Designed in tinkerCAD, the CAD case can be 3d printed and assembled my placing magnets in the circular slots, then magneted (??) together.
+The PCB was made in KiCad, and goes into its sled/base.
+
+
+
+
+
+
+
+
+
 Why?
 
 Recently, I've been in the "wow theres no fun games anymore and I need something to do before I lose my mind from doomscrolling for hours" phase. I thought to myself, I need a project. So I did. 
